@@ -175,7 +175,7 @@ module.exports = {
     //    context.global.os
 
     functionGlobalContext: {
-        process:process
+        env:process.env
         // os:require('os'),
         // octalbonescript:require('octalbonescript'),
         // jfive:require("johnny-five"),

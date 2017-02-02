@@ -6,5 +6,5 @@ This repository adds some flavors to the original one.
 
 ## Feature
 
-* node's `process` can be accessed via `context.global.process`
+* system environment values can be accessed via `context.global.env`
 
